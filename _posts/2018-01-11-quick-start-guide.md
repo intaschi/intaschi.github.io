@@ -1,27 +1,29 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
-categories: [ Jekyll, tutorial ]
+title:  "A Quick Introduction"
+author: carol
+categories: [ Outreachy ]
 image: assets/images/12.jpg
 featured: true
 hidden: true
 ---
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
+Hi! 
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+I had this project for some time now of starting blogging about themes of my interest, but it never really got out of the paper.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
+As Outreachy encouraged me to start writing this post to introduce myself, here we go. :)
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
+I'm Carol, a 24 years old woman living in Brazil and I've just got selected for the 2021 Outreachy internship at Oppia Foundation, which I'm really excited about.
 
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
+I've always had this fire for leaving, somehow, a positive impact into the world. That's why I became a vegan activist some years ago, and that's why I've chosen the Oppia project to apply for. 
 
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
+As the Oppia project aims to provide free, enjoyable and quality education for everyone, anywhere, I feel like participating in this is a really good opportunity to start bringing more positive changes to the world, in addition to being an incredible opportunity to learn new things, collaborate with people around the world, and to be introduced to the world of technology.
 
-#### So how do we do spoilers?
+In fact, it was not so long ago that I discovered my passion for technology. I've just graduated in Architecture and Urbanism, at State University of Campinas, a course that I've chosen because I love to create. Thankfully, my interest in studying subjects such as psychology, design, computing, social and data sciences, led me to combine my love for creating with my passion and curiosity for technology and its broad potential for impact.
 
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+If you are still curious and would like to know a little more about me, know that I also take a lot of interest in music, culinary, circus art (I used to love performing on stage) and nonviolent communication.
+
+For me, practicing NVC (nonviolent communication) is a way to be less judgemental and always remain open, in an empathic way, to other people's needs. In fact, this video of Marshall Rosenberg is one of my favorites in life: https://www.youtube.com/watch?v=l7TONauJGfc&t=2935s
+
+This is what I have for you, for now. In the coming weeks I will be writing more about my experience with Outreachy internship at Oppia and other subjects!
