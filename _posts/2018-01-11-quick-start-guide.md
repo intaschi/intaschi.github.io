@@ -2,10 +2,10 @@
 layout: post
 title:  "A Quick Introduction"
 author: carol
-categories: [ Outreachy ]
-image: assets/images/12.jpg
+categories: [ Outreachy, Introduction ]
+image: assets/images/18.jpg
 featured: true
-hidden: true
+hidden: false
 ---
 
 Hi! 
@@ -24,6 +24,6 @@ In fact, it was not so long ago that I discovered my passion for technology. I'v
 
 If you are still curious and would like to know a little more about me, know that I also take a lot of interest in music, culinary, circus art (I used to love performing on stage) and nonviolent communication.
 
-For me, practicing NVC (nonviolent communication) is a way to be less judgemental and always remain open, in an empathic way, to other people's needs. In fact, this video of Marshall Rosenberg is one of my favorites in life: https://www.youtube.com/watch?v=l7TONauJGfc&t=2935s
+For me, practicing NVC (nonviolent communication) is a way to be less judgemental and always remain open, in an empathic way, to other people's needs. In fact, <a target="_blank" href="https://www.youtube.com/watch?v=l7TONauJGfc&t=2935s">this video <i class="fab fa-github"></i></a> of Marshall Rosenberg is one of my favorites in life.
 
 This is what I have for you, for now. In the coming weeks I will be writing more about my experience with Outreachy internship at Oppia and other subjects!
