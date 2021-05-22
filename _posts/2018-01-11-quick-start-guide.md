@@ -3,7 +3,7 @@ layout: post
 title:  "A Quick Introduction"
 author: carol
 categories: [ Outreachy, Introduction ]
-image: assets/images/18.jpg
+image: assets/images/12.jpg
 featured: true
 hidden: false
 ---

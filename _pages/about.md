@@ -20,7 +20,7 @@ comments: false
 
 <p>You can contact me through one of the links below.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.linkedin.com/in/caroline-intaschi/" class="btn btn-danger">LinkedIn</a> <a target="_blank" href="https://github.com/intaschi" class="btn btn-warning">Github</a>
 
 </div>
 </div>
