@@ -47,6 +47,9 @@ Feel free to contact me on LinkedIn for any help or questions you have about the
 And thank you for reading this post, I hope you enjoyed knowing a little more about Oppia and the work we are doing in Brazil.
 
 LinkedIn: <a target="_blank" href="https://www.linkedin.com/in/caroline-intaschi/">caroline-intaschi</a>
+
 Team Brazil WhatsApp Group:  <a target="_blank" href="https://chat.whatsapp.com/BJp6UFFB8d6FHFuxNWmSmo">Join here</a>
+
 Email: <a target="_blank" href="mailto:brasil-team@oppia.org">**brasil-team@oppia.org**</a>
+
 Volunteer Interest Form: Fill it <a target="_blank" href="https://www.oppiafoundation.org/volunteer">here</a>
