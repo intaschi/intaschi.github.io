@@ -3,7 +3,7 @@ layout: post
 title:  "Making a difference in Brazil with Oppia Educational Project"
 author: carol
 categories: [ Outreachy, Week 3, Oppia, Education]
-image: assets/images/welcome.jpg
+image: assets/images/Oppia.png
 featured: true
 hidden: false
 ---
