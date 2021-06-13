@@ -22,13 +22,13 @@ The math lessons, also called explorations, are guided by a virtual tutor who pr
 
 Seeking to introduce the platform, and especially this incredible set of math explorations in Brazil, the Oppia Brazil team has been organized so far in 4 main pillars:
 
--**The first** works with the translation of lessons into Portuguese, as well with their validation and adaptation to the Brazilian audience through research and user studies.
+- **The first** works with the translation of lessons into Portuguese, as well with their validation and adaptation to the Brazilian audience through research and user studies.
 
--**The second** looks to develop successful relationships with like-minded NGOs to connect with teachers, students, and parents in underserved communities.
+- **The second** looks to develop successful relationships with like-minded NGOs to connect with teachers, students, and parents in underserved communities.
 
--**The third** seeks to scale the platform's digital reach in Brazil by analyzing Personas and creating and delivering online content to ensure the platform reaches parents, educators and students who could truly benefit from it.
+- **The third** seeks to scale the platform's digital reach in Brazil by analyzing Personas and creating and delivering online content to ensure the platform reaches parents, educators and students who could truly benefit from it.
 
--**The fourth**, and also very important pillar, is about creating a broader and more lasting Brazilian community within Oppia.
+- **The fourth**, and also very important pillar, is about creating a broader and more lasting Brazilian community within Oppia.
 
 Each of our volunteers contributes by doing what they love and are passionate about. Our volunteers work in many different aspects of Oppia, including art and design, software development, research, translation, collecting student feedback, creating lessons and with social media – which you can learn more about by visiting </a> or fill our interest available <a target="_blank" href="https://www.oppiafoundation.org/volunteer">this page</a>. And if you also identify with this project, no matter who you are or where you come from, everyone is welcome in this community!
 
@@ -36,11 +36,11 @@ If you are part of a social organization and believe that we can work together t
 
 ## What are the benefits of contributing to this open-source project?
 
--Expand your **networking**, working with different people around Brazil and the world;
--Practice or gain new programming, design, research, language, teamwork and many more skills.
--**Exchange experiences** and improve the skills you set out to work on;
--Make **new friends**;
--Contribute to a project that **benefits the community** by working on something you **enjoy doing**!
+- Expand your **networking**, working with different people around Brazil and the world;
+- Practice or gain new programming, design, research, language, teamwork and many more skills.
+- **Exchange experiences** and improve the skills you set out to work on;
+- Make **new friends**;
+- Contribute to a project that **benefits the community** by working on something you **enjoy doing**!
 
 Feel free to contact me on LinkedIn for any help or questions you have about the project!
 
