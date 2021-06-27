@@ -3,7 +3,7 @@ layout: post
 title:  "How Does Oppia UX Team Conduct User Studies?"
 author: carol
 categories: [ Outreachy, Week 5, Oppia, Education]
-image: assets/images/Oppia.png
+image: assets/images/18.png
 featured: true
 hidden: false
 ---
@@ -16,7 +16,7 @@ As an UX Researcher at Oppia, I conduct research with the rest of the Learner Fe
 
 A **learner feedback session** is aimed to help us get feedback for making the lessons better for Oppia's students around the world. These sessions may focus on the Oppia lessons, the Oppia website, the mobile app, or on the general situation of students, including parents sometimes too.
 
-*These sessions are focused on understanding students’ expectations, behaviors, and needs. Local volunteers conduct studies with students by working through lessons and gathering feedback that allows us to create content that is fun and easily digestible.This feedback is critical in helping us better align our lessons with the core needs and goals of students. It also enables us to help future students more effectively* ( <a target="_blank" href="https://www.oppiafoundation.org/volunteer">Oppia Foundation</a>. 
+*These sessions are focused on understanding students’ expectations, behaviors, and needs. Local volunteers conduct studies with students by working through lessons and gathering feedback that allows us to create content that is fun and easily digestible.This feedback is critical in helping us better align our lessons with the core needs and goals of students. It also enables us to help future students more effectively* ( <a target="_blank" href="https://www.oppiafoundation.org/volunteer">Oppia Foundation</a>). 
 
 Additionally, we hope that the students we work with will learn a lot from that experience, and improve their understanding of key mathematics concepts that will help them in the future!
 
